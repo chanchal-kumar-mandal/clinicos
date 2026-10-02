@@ -21,6 +21,10 @@ ClinicOS provides a clean and intuitive interface for managing doctors, patients
 * 📝 Form Validation
 * 🗂️ Dummy Data for Frontend Development
 
+## Demo
+
+<img width="1585" height="1020" alt="clinicos" src="https://github.com/user-attachments/assets/cc303c5c-937d-4983-bc51-b135e77f3a0a" />
+
 ## Tech Stack
 
 * React
